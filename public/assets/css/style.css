@@ -1,0 +1,48 @@
+header .carousel-item img {
+    height: 350px;
+    border-radius: 20px;
+}
+
+.btn-login {
+    background-color: brown;
+    width: 100px;
+    border: none;
+}
+
+.wisata {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.wisata .judul {
+    text-align: center;
+}
+
+.wisata .judul h2 {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.wisata .row {
+    margin-top: 30px;
+}
+
+.wisata .card {
+    border-radius: 20px;
+}
+
+.wisata .card img {
+    height: 200px;
+    border-radius: 20px;
+}
+
+.wisata .card .btn-detail {
+    height: 45px;
+    border-radius: 20px;
+    background-color: brown;
+    border: none;
+}
+
+footer {
+    background-color: brown;
+}
